@@ -12,7 +12,6 @@
 @media(max-width:700px){
     .avatar{
         width: 35%;
-        height: 35%;
         margin-top:25px;
     }
 }
